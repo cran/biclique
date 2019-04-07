@@ -1,10 +1,11 @@
 Package: biclique
 Title: Maximal Biclique Enumeration in Bipartite Graphs
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: c(
-    person("Yuping", "Lu", , "yupinglu@utk.edu", role = c("aut", "cre")),
+    person("Yuping", "Lu", , "yupinglu89@gmail.com", role = c("aut", "cre", "cph")),
     person("Charles", "Phillips", role = "aut"),
-    person("Michael", "Langston", role = "aut")
+    person("Michael", "Langston", role = "aut"),
+    person("Department of Computer Science, University of Tennessee, Knoxville", role = "cph")
     )
 Encoding: UTF-8
 Description: A tool for enumerating maximal complete bipartite graphs. The input should be a edge list file or a binary matrix file. 
@@ -17,10 +18,12 @@ License: GPL-2 | file LICENSE
 LazyData: true
 RoxygenNote: 6.0.1
 NeedsCompilation: yes
-Packaged: 2017-05-06 03:55:23 UTC; yupinglu
-Author: Yuping Lu [aut, cre],
+Packaged: 2019-03-30 04:30:38 UTC; yupinglu
+Author: Yuping Lu [aut, cre, cph],
   Charles Phillips [aut],
-  Michael Langston [aut]
-Maintainer: Yuping Lu <yupinglu@utk.edu>
+  Michael Langston [aut],
+  Department of Computer Science, University of Tennessee, Knoxville
+    [cph]
+Maintainer: Yuping Lu <yupinglu89@gmail.com>
 Repository: CRAN
-Date/Publication: 2017-05-07 06:06:32 UTC
+Date/Publication: 2019-04-07 08:32:40 UTC

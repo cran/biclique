@@ -20,7 +20,9 @@ If your input file already have those entries, pleast don't run this command. Ot
 Please also note that no comment characters are allowed in the input file.
 }
 \examples{
-bi.format(system.file("extdata", "example2.el", package = "biclique"))
-bi.format(system.file("extdata", "example5.bmat", package = "biclique"), 1)
-
+dir <- tempdir()
+file.copy(system.file("extdata", "example2.el", package = "biclique"), dir)
+file.copy(system.file("extdata", "example5.bmat", package = "biclique"), dir)
+bi.format(file.path(dir, "example2.el"))
+bi.format(file.path(dir, "example5.bmat"), 1)
 }
