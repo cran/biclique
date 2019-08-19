@@ -1,12 +1,12 @@
-94a5d9b44cfbbecc7c80afe99eea7ec3 *DESCRIPTION
+d55e1d70034b4b6daad3db8fae23deec *DESCRIPTION
 a23a74b3f4caf9616230789d94217acb *LICENSE
 8fa913e8baba465c3821e58e385728ea *NAMESPACE
-c9594188b2b3b8a440d34ebeca31dc1f *NEWS.md
+8e2e2254eaf3a307171957db6df9bfbd *NEWS.md
 2a5b41aabc8b2ccc47882100dacde9ed *R/biclique.R
 493bf737ff2d3158147ffe8e53dd4059 *R/package-biclique.R
 8a00619aae372a8338322bc5e226e151 *R/state.R
 47b5fea2deb8902717cd7de7313c825a *R/zzz.R
-60234eb7fb39212b4e78394483ce8fdd *README.md
+77fd07c152ab0d89e1bff9368ccbe73a *README.md
 dc4fdb700d58e705255e0202862ec81c *inst/extdata/README.md
 799444ff64650ca31a1b92e8ff5174c8 *inst/extdata/example1.el
 73ba8375b41f1b532d33f3437b23614d *inst/extdata/example2.el
@@ -20,9 +20,9 @@ a74f6e016d835a9bd3b5a8847a0a9442 *man/bi.print.Rd
 1a7fd48bfbdd43b8f8e0c359254e222f *man/biclique.Rd
 4270b496218a93e4f43510789e603a8f *src/Makevars.in
 cf2df7a8305cb205113f494cc486b3ee *src/Makevars.win
-ebbe8e2b50f7845e9c9442e2fc3aecfc *src/R_biclique_driver.c
+ab2aea3440478c8943f5f74787a0f44d *src/R_biclique_driver.c
 9de9a0ab87b9d1d95e1324650e3a40a0 *src/R_biclique_driver.h
-a8d30d58c25d1de22175fec4d9b98bee *src/biclique.c
+732423a4bdf4cb22d5df488684480e09 *src/biclique.c
 f32af9d79733b4876f72951abcb51f96 *src/biclique.h
 c169b55d34d09085145d6baac7e45d54 *src/biclique_init.c
 f7ceaa7e6c85a359a491efbb9ade9a48 *src/bigraph.c
