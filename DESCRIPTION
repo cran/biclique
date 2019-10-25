@@ -1,6 +1,6 @@
 Package: biclique
 Title: Maximal Biclique Enumeration in Bipartite Graphs
-Version: 1.0.3
+Version: 1.0.4
 Authors@R: c(
     person("Yuping", "Lu", , "yupinglu89@gmail.com", role = c("aut", "cre", "cph")),
     person("Charles", "Phillips", role = "aut"),
@@ -16,9 +16,9 @@ Depends: R (>= 3.4.0)
 Imports: graphics, utils
 License: GPL-2 | file LICENSE
 LazyData: true
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
 NeedsCompilation: yes
-Packaged: 2019-08-19 15:55:10 UTC; yupinglu
+Packaged: 2019-10-25 19:20:07 UTC; yuping
 Author: Yuping Lu [aut, cre, cph],
   Charles Phillips [aut],
   Michael Langston [aut],
@@ -26,4 +26,4 @@ Author: Yuping Lu [aut, cre, cph],
     [cph]
 Maintainer: Yuping Lu <yupinglu89@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-08-19 17:10:02 UTC
+Date/Publication: 2019-10-25 19:40:02 UTC
